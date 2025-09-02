@@ -43,7 +43,7 @@ brand-reputation-monitor/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/brand-reputation-monitor.git
+   git clone https://github.com/magnabenita/brand_reputation_monitor.py
    cd brand-reputation-monitor
 
 2. **Install dependencies**
