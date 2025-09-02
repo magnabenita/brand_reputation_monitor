@@ -20,7 +20,7 @@ highlighting anomalies, and visualizing emotions with charts & word clouds.
 
 ## 📂 Project Structure
 
-```bash
+
 brand-reputation-monitor/
 │── src/
 │   ├── fetch_realtime.py       # Fetches news data
@@ -36,7 +36,7 @@ brand-reputation-monitor/
 │── .gitignore                  # Ignore unnecessary files
 │── README.md                   # Project documentation
 
----
+
 
 ## 🛠️ Setup
 
