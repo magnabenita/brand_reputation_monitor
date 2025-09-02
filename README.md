@@ -56,9 +56,10 @@ brand-reputation-monitor/
 
 NEWSAPI_KEY=your_api_key_here
 
-4. **Run sentiment analysis pipeline**
+4. ** Fetch data and Run sentiment analysis pipeline**
 
    ```bash
+   python src/fetch_realtime.py
    python src/sentiment_realtime.py
 
 5. **Run Streamlit Dashboard**
