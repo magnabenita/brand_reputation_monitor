@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Data (raw + processed should not be pushed)
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Test / coverage
+.coverage
+.pytest_cache/
+
+
+.csv
+.pkl
